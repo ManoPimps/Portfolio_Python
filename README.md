@@ -1,2 +1,5 @@
 # Portfolio_Python
- A repository with some python projects.
+
+This repository contains some projects I developed to study the python language.
+
+Thanks.
